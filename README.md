@@ -1,5 +1,5 @@
-## Hi, I'm the-oblyv, a web developer
-![](https://raw.githubusercontent.com/rafnixg/rafnixg/master/rafnix_header.jpeg)
+## Hi, I'm gmacbride, an artist.
+![](https://raw.githubusercontent.com/the-oblyv/the-oblyv.github.io/refs/heads/main/Screenshot_20260330-202731.png)
 
 ![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafnixg.rafnixg)
